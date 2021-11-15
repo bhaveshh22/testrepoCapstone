@@ -1,7 +1,7 @@
 # testrepoCapstone
 
 
-#editing the changes
+##editing the changes
 
 
-#its a markdown file in the repository.
+its a markdown file in the repository.
